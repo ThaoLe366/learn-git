@@ -1,3 +1,7 @@
 Hello from init user 1
 
+<<<<<<< HEAD
 User 2: second commit
+=======
+Hello from second commit of user 2
+>>>>>>> master
