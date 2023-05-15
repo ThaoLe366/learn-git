@@ -1,1 +1,3 @@
 Hello from init user 1
+
+Hello from second commit of user 2
